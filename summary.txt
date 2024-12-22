@@ -1,0 +1,1 @@
+the best model of them is that with a batch size of 16: "mnist_cnn_model_100e_16b_10sp_5rp" with an accuracy of 0.9918 or 99.18% and as you go up in batch size accuracy decrease so the worst is 128b
